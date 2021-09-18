@@ -23,6 +23,8 @@ textarea {
     display: block;
     margin-top: 2rem;  
     font-size: larger; 
+    box-shadow: 0.5rem 0.5rem 8rem var(--primary-color) ;
+
 }
 button {
     background-color: var(--primary-color);
@@ -42,6 +44,8 @@ button {
     overflow: scroll;
     margin-top: .4rem;
     font-size: large;
+    box-shadow: 0.5rem 0.5rem 8rem var(--primary-color) ;
+
 }
 footer {
     width: 100%;
